@@ -1,0 +1,179 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Peergrade 7</name>
+    </assembly>
+    <members>
+        <member name="T:Peergrade_7.Controllers.UsersController">
+            <summary>
+            Контроллер для пользователей и сообщений.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.Get">
+            <summary>
+            Показывает всех пользователей.
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.Get(System.String)">
+            <summary>
+            Показывает пользователя по полученной почте.
+            </summary>
+            <param name="email"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.GenerateUsers">
+            <summary>
+            Создает 10 пользователей с рандомной генерацией имен и почт.
+            </summary>
+            <returns>Действие, выводящее всех пользователей.</returns>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.AddUser">
+            <summary>
+            Добавляем одного пользователя, имя и почта генерируются рандомно.
+            </summary>
+            <returns>Нового пользователя.</returns>
+        </member>
+        <member name="F:Peergrade_7.Controllers.UsersController.messages">
+            <summary>
+            Список сообщений.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.GetByAll(System.String,System.String)">
+            <summary>
+            Находим список сообщений для отпраителя и получателя.
+            </summary>
+            <param name="SenderId">Отправитель.</param>
+            <param name="ReceiverId">Получатель.</param>
+            <returns>Список сообщений.</returns>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.GetBySenderId(System.String)">
+            <summary>
+            Находим список сообщений для отпраителя.
+            </summary>
+            <param name="SenderId">Отправитель.</param>
+            <returns>Список сообщений.</returns>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.GetByReceiverId(System.String)">
+            <summary>
+            Находим список сообщений для получателя.
+            </summary>
+            <param name="ReceiverId">Получатель.</param>
+            <returns>Список сообщений.</returns>
+        </member>
+        <member name="M:Peergrade_7.Controllers.UsersController.GenerateMessages">
+            <summary>
+            Создает сообщения.
+            </summary>
+            <returns>Список сообщений.</returns>
+        </member>
+        <member name="P:Peergrade_7.Models.MessageInfo.Subject">
+            <summary>
+            Тема письма.
+            </summary>
+        </member>
+        <member name="P:Peergrade_7.Models.MessageInfo.Message">
+            <summary>
+            Содержание письма.
+            </summary>
+        </member>
+        <member name="P:Peergrade_7.Models.MessageInfo.SenderId">
+            <summary>
+            Отправитель.
+            </summary>
+        </member>
+        <member name="P:Peergrade_7.Models.MessageInfo.ReceiverId">
+            <summary>
+            Получатель.
+            </summary>
+        </member>
+        <member name="T:Peergrade_7.Models.User">
+            <summary>
+            Пользователь.
+            </summary>
+        </member>
+        <member name="P:Peergrade_7.Models.User.UserName">
+            <summary>
+            Имя.
+            </summary>
+        </member>
+        <member name="P:Peergrade_7.Models.User.Email">
+            <summary>
+            Почта.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Models.User.CompareTo(System.Object)">
+            <summary>
+            Определил CompareTo, чтоб сортировать список.
+            </summary>
+            <param name="obj">По сути другой пользователь.</param>
+            <returns>Число 1,-1 или 0, для сортировки.</returns>
+        </member>
+        <member name="M:Peergrade_7.Program.Main(System.String[])">
+            <summary>
+            Метод мейн.
+            </summary>
+            <param name="args">аргс.</param>
+        </member>
+        <member name="T:Peergrade_7.Services.JsonReader">
+            <summary>
+            Считывает из Json файла информацию.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Services.JsonReader.#ctor">
+            <summary>
+            Конструктор.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Services.JsonReader.GetUsers">
+            <summary>
+            Получаем список пользователей из файла.
+            </summary>
+            <returns>Список пользователей.</returns>
+        </member>
+        <member name="M:Peergrade_7.Services.JsonReader.GetMessages">
+            <summary>
+            Считываем сообщения из файла.
+            </summary>
+            <returns>Список сообщений.</returns>
+        </member>
+        <member name="T:Peergrade_7.Services.JsonWriter">
+            <summary>
+            Записываем в файл.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Services.JsonWriter.#ctor">
+            <summary>
+            Конструктор.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Services.JsonWriter.WriteUsers(System.Collections.Generic.List{Peergrade_7.Models.User})">
+            <summary>
+            Записываем в файл список пользователей.
+            </summary>
+            <param name="listic">Список пользователей.</param>
+        </member>
+        <member name="M:Peergrade_7.Services.JsonWriter.WriteMessages(System.Collections.Generic.List{Peergrade_7.Models.MessageInfo})">
+            <summary>
+            Записывает в файл список сообщений.
+            </summary>
+            <param name="listic">Список сообщений.</param>
+        </member>
+        <member name="T:Peergrade_7.Startup">
+            <summary>
+            Стартап.
+            </summary>
+        </member>
+        <member name="M:Peergrade_7.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            Конструктор.
+            </summary>
+            <param name="configuration">Конфигурация.</param>
+        </member>
+        <member name="P:Peergrade_7.Startup.Configuration">
+            <summary>
+            Конфигурация приложения.
+            </summary>
+        </member>
+    </members>
+</doc>

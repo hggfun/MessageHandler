@@ -1,0 +1,64 @@
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\appsettings.Development.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\appsettings.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.exe
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.deps.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.runtimeconfig.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.runtimeconfig.dev.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\ref\Peergrade 7.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.pdb
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.AssemblyInfo.cs
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.MvcApplicationPartsAssemblyInfo.cs
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.MvcApplicationPartsAssemblyInfo.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\staticwebassets\Peergrade 7.StaticWebAssets.Manifest.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\staticwebassets\Peergrade 7.StaticWebAssets.xml
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\scopedcss\bundle\Peergrade 7.styles.css
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.RazorTargetAssemblyInfo.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.csproj.CopyComplete
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\ref\Peergrade 7.dll
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.pdb
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.genruntimeconfig.cache
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\messages.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\users.json
+D:\ПрогаВШЭ\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Comments.xml
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\appsettings.Development.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\appsettings.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\messages.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\users.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.exe
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.deps.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.runtimeconfig.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.runtimeconfig.dev.json
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\ref\Peergrade 7.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Peergrade 7.pdb
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Comments.xml
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.csproj.AssemblyReference.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.AssemblyInfoInputs.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.AssemblyInfo.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.csproj.CoreCompileInputs.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.MvcApplicationPartsAssemblyInfo.cs
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.MvcApplicationPartsAssemblyInfo.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\staticwebassets\Peergrade 7.StaticWebAssets.Manifest.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\staticwebassets\Peergrade 7.StaticWebAssets.xml
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\scopedcss\bundle\Peergrade 7.styles.css
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.RazorTargetAssemblyInfo.cache
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.csproj.CopyComplete
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\ref\Peergrade 7.dll
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.pdb
+D:\ПрогаВШЭ\Прога C#\PeerGrade\Peergrade 7\Peergrade 7\obj\Debug\net5.0\Peergrade 7.genruntimeconfig.cache
